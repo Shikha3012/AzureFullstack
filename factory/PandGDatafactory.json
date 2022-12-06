@@ -1,0 +1,9 @@
+{
+	"name": "PandGDatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f31fea83-c4fb-43a6-8523-05418b8691b1",
+		"tenantId": "9ff477b8-02a4-4b37-9c40-fd7bcb0725c7"
+	}
+}
